@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Samyuktha8989
+- 👋 Hi, I’m Samyuktha
 - 👀 I’m interested in research and coding
-- 🌱 I’m currently learning applications of bioinformatics
+- 🌱 I’m currently pursuing Btech in Bioinformatics.
 - 💞️ I’m looking to collaborate on any domain-related to bioinformatics
 - 📫 How to reach me ... samyuktha8989@gmail.com
 - 😄 Pronouns: she/her
